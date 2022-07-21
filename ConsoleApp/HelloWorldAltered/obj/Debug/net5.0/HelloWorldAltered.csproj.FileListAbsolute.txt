@@ -1,0 +1,16 @@
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\bin\Debug\net5.0\HelloWorldAltered.exe
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\bin\Debug\net5.0\HelloWorldAltered.deps.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\bin\Debug\net5.0\HelloWorldAltered.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\bin\Debug\net5.0\HelloWorldAltered.runtimeconfig.dev.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\bin\Debug\net5.0\HelloWorldAltered.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\bin\Debug\net5.0\HelloWorldAltered.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\refint\HelloWorldAltered.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\HelloWorldAltered.genruntimeconfig.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ConsoleApp\HelloWorldAltered\obj\Debug\net5.0\ref\HelloWorldAltered.dll
