@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace HelloWorldAltered
+namespace RpsConsole1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello altered world");
+            Console.WriteLine("Hello World!");
         }
     }
 }

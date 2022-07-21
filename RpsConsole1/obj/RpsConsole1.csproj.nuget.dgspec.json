@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\ConsoleApp\\HelloWorldAltered\\HelloWorldAltered.csproj": {}
+    "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\RpsConsole1\\RpsConsole1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\ConsoleApp\\HelloWorldAltered\\HelloWorldAltered.csproj": {
+    "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\RpsConsole1\\RpsConsole1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\ConsoleApp\\HelloWorldAltered\\HelloWorldAltered.csproj",
-        "projectName": "HelloWorldAltered",
-        "projectPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\ConsoleApp\\HelloWorldAltered\\HelloWorldAltered.csproj",
+        "projectUniqueName": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\RpsConsole1\\RpsConsole1.csproj",
+        "projectName": "RpsConsole1",
+        "projectPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\RpsConsole1\\RpsConsole1.csproj",
         "packagesPath": "C:\\Users\\heath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\ConsoleApp\\HelloWorldAltered\\obj\\",
+        "outputPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\RpsConsole1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heath\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
