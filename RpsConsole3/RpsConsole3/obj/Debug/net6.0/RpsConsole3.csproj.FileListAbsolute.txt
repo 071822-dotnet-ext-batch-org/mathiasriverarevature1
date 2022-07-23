@@ -1,0 +1,15 @@
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\bin\Debug\net6.0\RpsConsole3.exe
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\bin\Debug\net6.0\RpsConsole3.deps.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\bin\Debug\net6.0\RpsConsole3.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\bin\Debug\net6.0\RpsConsole3.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\bin\Debug\net6.0\RpsConsole3.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\refint\RpsConsole3.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\RpsConsole3.genruntimeconfig.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\RpsConsole3\RpsConsole3\obj\Debug\net6.0\ref\RpsConsole3.dll
