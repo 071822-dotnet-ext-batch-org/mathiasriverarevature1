@@ -7,13 +7,13 @@ namespace RpsConsole3
         static void Main(string[] args)
         {
             // Welcome message...
-            Console.WriteLine("\t\tWelcome to you favorite game!\n\t\tThis is Rock-Paper Scissors!\n");
+            Console.WriteLine("\t\tWelcome to your favorite game!\n\t\tThis is Rock Paper Scissors!\n");
 
             //Instructions to play... explanation of the game flow. which keys are used, etc
             Console.WriteLine("\tPress the number corresponding to Rock, Paper, or Scissors to make your choice.\n\tThe computer will make its choice and you will be notified as to the winner.\n\nTo play, press enter.\n\n");
 
             // start the game by pressing ENTER
-            //Console.ReadLine();
+            Console.ReadLine();
 
             // (unseen to the user) create some variables to store which choice the user made, 
             // computer choice, computer wins, user wins, number of ties, player1 name (user), player2 name (computer for now)
@@ -24,8 +24,11 @@ namespace RpsConsole3
             int player1wins = 0;//how many rounds p1 has won
             int computerWins = 0;//how many rounds the compouter has won
             int numberOfTies = 0;//how many ties there have been
+            int numberOfGames = 0;
+
             string player1Name = "";
-            string computerName = "";
+            int player1NameLength;
+            string computerName = "Computer";
             string player1ChoiceStr;
             bool successfulConversion = false;
             bool isTie = true;
@@ -34,11 +37,23 @@ namespace RpsConsole3
             // get the users name
             Console.WriteLine("What is your name?");
             player1Name = Console.ReadLine();
+            player1NameLength = player1Name.Length;
 
-            Console.WriteLine($"Welcome to R-P-S Game, {player1Name}");
+            //user name length function
+            while(player1NameLength > 15)
+            {
+                Console.WriteLine($"Please re-enter a name that is 15 characters or less.");
+                player1Name = Console.ReadLine();
+                player1NameLength = player1Name.Length;
 
+            }
+            
+            Console.WriteLine($"Welcome to R-P-S Game, {player1Name}./nWinning two rounds means you have won a game!/n/tLet's begin!");
+        //loop to maintain program
+        while(true)
+        {
             //this loop is for each beginning of a game.
-            while (true)
+            while (player1wins<2)
             {
 
 
@@ -89,21 +104,31 @@ namespace RpsConsole3
                     }
                 }
 
-                // ask if they want to play again. (if using rounds, each game would need to be stored.)
+                // reads counter for player wins and number of games and reset isTie
+                isTie=true;
+                Console.WriteLine($"You have won {player1wins} rounds");
+                Console.WriteLine($"You have played {numberOfGames} games");
+               
+            }
+
+                //ask to play again, if so, it resets tie loop and playerwin loop and adds to game tally
                 Console.WriteLine($"Hey {player1Name}, would you like to play again?\n\tEnter'Y' to play again or 'N' to quit the program.");
                 playAgain = Console.ReadLine();
                 if (String.Equals("Y", playAgain, StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine($"The strings are equal");
                     isTie = true;
+                    numberOfGames++;
+                    player1wins=0;
                 }
                 else
                 {
                     //continue;// will end the current loop and immediately start the next iteration of the same loop.
-                    Console.WriteLine($"I'm sorry to see you go... se la vi.");
+                    Console.WriteLine($"I'm sorry to see you go... ciao.");
                     break;
                 }
-            }
+
+        }
 
 
             // tell the user the tally results as of now.
