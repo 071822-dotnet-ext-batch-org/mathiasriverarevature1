@@ -48,7 +48,7 @@ namespace RpsConsole3
 
             }
             
-            Console.WriteLine($"Welcome to R-P-S Game, {player1Name}./nWinning two rounds means you have won a game!/n/tLet's begin!");
+            Console.WriteLine($"Welcome to R-P-S Game, {player1Name}.\nWinning two rounds means you have won a game!\n\t Let's begin!");
         //loop to maintain program
         while(true)
         {
@@ -112,14 +112,15 @@ namespace RpsConsole3
             }
 
                 //ask to play again, if so, it resets tie loop and playerwin loop and adds to game tally
-                Console.WriteLine($"Hey {player1Name}, would you like to play again?\n\tEnter'Y' to play again or 'N' to quit the program.");
+                Console.WriteLine($"Hey {player1Name}, would you like to play again? \n\t Enter'Y' to play again or 'N' to quit the program.");
+                
                 playAgain = Console.ReadLine();
                 if (String.Equals("Y", playAgain, StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine($"The strings are equal");
                     isTie = true;
                     numberOfGames++;
-                    player1wins=0;
+                    player1wins = 0;
                 }
                 else
                 {
