@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace RpsConsole3
 {
@@ -140,14 +140,6 @@ namespace RpsConsole3
 
 
             //quit if they don't want to play... loop up to begin again if they DO want to play again.
-
-
-
-
-
-
-
-
 
 
         }
