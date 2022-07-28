@@ -1,0 +1,16 @@
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\bin\Debug\net5.0\Practice Code.exe
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\bin\Debug\net5.0\Practice Code.deps.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\bin\Debug\net5.0\Practice Code.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\bin\Debug\net5.0\Practice Code.runtimeconfig.dev.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\bin\Debug\net5.0\Practice Code.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\bin\Debug\net5.0\Practice Code.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\refint\Practice Code.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\Practice Code.genruntimeconfig.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\Practice Code\obj\Debug\net5.0\ref\Practice Code.dll
