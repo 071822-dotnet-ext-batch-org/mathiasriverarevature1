@@ -1,0 +1,16 @@
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\bin\Debug\net5.0\InhandPolyG4.exe
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\bin\Debug\net5.0\InhandPolyG4.deps.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\bin\Debug\net5.0\InhandPolyG4.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\bin\Debug\net5.0\InhandPolyG4.runtimeconfig.dev.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\bin\Debug\net5.0\InhandPolyG4.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\bin\Debug\net5.0\InhandPolyG4.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\refint\InhandPolyG4.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\InhandPolyG4.genruntimeconfig.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\InhandPolyG4\obj\Debug\net5.0\ref\InhandPolyG4.dll
