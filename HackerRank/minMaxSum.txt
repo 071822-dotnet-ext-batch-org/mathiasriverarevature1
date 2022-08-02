@@ -1,0 +1,19 @@
+public static void miniMaxSum(List<int> arr)
+    {
+        arr.Sort();
+        
+        List<long> lstLong = new List<long>();
+        
+        foreach(var a in arr)
+        {
+            lstLong.Add(a);
+        }
+        
+        long sum = lstLong.Sum();
+        long sumMin = sum - lstLong.First();
+        long sumMax = sum - lstLong.Last();
+        
+        Console.WriteLine(sumMax+" "+sumMin);
+    }
+
+
