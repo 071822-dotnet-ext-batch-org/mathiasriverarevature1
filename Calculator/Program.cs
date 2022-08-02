@@ -16,7 +16,7 @@ namespace Calculator
             bool Num2Loop = true;           
            
             //Get user opertation
-            Console.WriteLine("Welcome to the calculator! Let's start with inputting an operation. /n Please use either +,-,*,/.");
+            Console.WriteLine("Welcome to the calculator! Let's start with inputting an operation. \n Please use either +,-,*,/.");
             Num1Str = Console.ReadLine();
 
             //get user number 1
