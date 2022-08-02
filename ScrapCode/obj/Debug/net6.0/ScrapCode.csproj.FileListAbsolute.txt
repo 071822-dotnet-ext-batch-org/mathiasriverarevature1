@@ -1,0 +1,15 @@
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\bin\Debug\net6.0\ScrapCode.exe
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\bin\Debug\net6.0\ScrapCode.deps.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\bin\Debug\net6.0\ScrapCode.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\bin\Debug\net6.0\ScrapCode.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\bin\Debug\net6.0\ScrapCode.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\refint\ScrapCode.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ScrapCode.genruntimeconfig.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\ScrapCode\obj\Debug\net6.0\ref\ScrapCode.dll
