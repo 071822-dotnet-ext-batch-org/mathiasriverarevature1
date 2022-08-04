@@ -1,0 +1,59 @@
+ public static void countApplesAndOranges(int s, int t, int a, int b, List<int> apples, List<int> oranges)
+    {
+        //counter variables
+        int Ahits = 0;
+        int Ohits = 0;
+        
+        //apple loop
+        for(int i=0;i<apples.Count;i++)
+        {
+            int currAppleDistance = apples[i];
+            int AppTreePosition = a;
+            int LeftOfHouse = s;
+            int RightOfHouse = t;
+            int CurrentApplePosition = AppTreePosition+currAppleDistance;
+            //check bound 
+            if (CurrentApplePosition<LeftOfHouse)
+            {
+                //not a hit
+            }
+            else if(CurrentApplePosition>RightOfHouse)
+            {
+                
+            }
+            else
+            {
+                Ahits++;
+            }
+        }
+        //orange loop
+        for(int i=0;i<oranges.Count;i++)
+        {
+          
+            int currOrangeDistance = oranges[i];
+            int OrangeTreePosition = b;
+            int LeftOfHouse = s;
+            int RightOfHouse = t;
+            int CurrentOrangePosition = OrangeTreePosition+currOrangeDistance;
+            //check bound 
+            if (CurrentOrangePosition<LeftOfHouse)
+            {
+                //not a hit
+            }
+            else if(CurrentOrangePosition>RightOfHouse)
+            {
+                
+            }
+            else
+            {
+                Ohits++;
+            }
+         
+        }
+        
+        //output
+        Console.WriteLine(Ahits);
+        Console.WriteLine(Ohits);
+    }
+
+}
