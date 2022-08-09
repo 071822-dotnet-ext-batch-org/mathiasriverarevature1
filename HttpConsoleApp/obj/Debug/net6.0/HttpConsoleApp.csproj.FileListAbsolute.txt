@@ -1,0 +1,15 @@
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\bin\Debug\net6.0\HttpConsoleApp.exe
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\bin\Debug\net6.0\HttpConsoleApp.deps.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\bin\Debug\net6.0\HttpConsoleApp.runtimeconfig.json
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\bin\Debug\net6.0\HttpConsoleApp.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\bin\Debug\net6.0\HttpConsoleApp.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.csproj.AssemblyReference.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.AssemblyInfo.cs
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\refint\HttpConsoleApp.dll
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.pdb
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\HttpConsoleApp.genruntimeconfig.cache
+C:\Users\heath\OneDrive\Desktop\Revature\mathiasriverarevature1\HttpConsoleApp\obj\Debug\net6.0\ref\HttpConsoleApp.dll
