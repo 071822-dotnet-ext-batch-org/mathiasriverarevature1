@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\Calculator\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\HttpConsoleApp\\HttpConsoleApp.csproj",
+      "projectName": "HttpConsoleApp",
+      "projectPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\HttpConsoleApp\\HttpConsoleApp.csproj",
       "packagesPath": "C:\\Users\\heath\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\heath\\OneDrive\\Desktop\\Revature\\mathiasriverarevature1\\HttpConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\heath\\AppData\\Roaming\\NuGet\\NuGet.Config"
