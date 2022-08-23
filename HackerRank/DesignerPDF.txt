@@ -1,0 +1,11 @@
+public static int designerPdfViewer(List<int> h, string word)
+    {
+        List<int> lists = new List<int>();//creates empty list
+        for(int i=0; i<word.Length; i++)//iterates through the word
+        {
+            int c = word[i] % 97;//confused. converts to index of accii?
+            lists.Add(h[c]);//adds int value to list h
+        }
+        lists.Sort();//sorts
+        return lists[lists.Count-1] * word.Length;//finds area of rectangle by multipling the length of the list and the length of the word
+    }
