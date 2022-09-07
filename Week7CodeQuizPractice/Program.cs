@@ -1,10 +1,18 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-Console.WriteLine("Hello, World!");
-int x = 6;
-if (x>5)
-{
-    Console.WriteLine("true");
-}
-else Console.WriteLine("false");
+string S = "GRGB";
+char start = S[0];
+
+Console.WriteLine(start);
+
+Math.Min
+
+
+// string[] SplitArray = S.Split();
+
+
+// for (int counter = 0; counter < SplitArray.Length; counter++)
+// {
+//    Console.WriteLine(SplitArray[counter].ToString( ));
+// }
