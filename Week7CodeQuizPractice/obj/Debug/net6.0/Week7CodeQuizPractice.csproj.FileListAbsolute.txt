@@ -1,0 +1,15 @@
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\bin\Debug\net6.0\Week7CodeQuizPractice.exe
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\bin\Debug\net6.0\Week7CodeQuizPractice.deps.json
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\bin\Debug\net6.0\Week7CodeQuizPractice.runtimeconfig.json
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\bin\Debug\net6.0\Week7CodeQuizPractice.dll
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\bin\Debug\net6.0\Week7CodeQuizPractice.pdb
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.csproj.AssemblyReference.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.AssemblyInfoInputs.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.AssemblyInfo.cs
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.csproj.CoreCompileInputs.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.dll
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\refint\Week7CodeQuizPractice.dll
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.pdb
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\Week7CodeQuizPractice.genruntimeconfig.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\Week7CodeQuizPractice\obj\Debug\net6.0\ref\Week7CodeQuizPractice.dll
