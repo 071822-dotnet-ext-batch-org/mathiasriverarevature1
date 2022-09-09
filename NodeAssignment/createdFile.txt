@@ -1,0 +1,3 @@
+This is a file waiting for appending stuff
+This is the int variable 20
+Now we append again with a func that holds a string
