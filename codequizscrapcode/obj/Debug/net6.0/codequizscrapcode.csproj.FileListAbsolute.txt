@@ -1,0 +1,15 @@
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.csproj.AssemblyReference.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.AssemblyInfoInputs.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.AssemblyInfo.cs
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.csproj.CoreCompileInputs.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\bin\Debug\net6.0\codequizscrapcode.exe
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\bin\Debug\net6.0\codequizscrapcode.deps.json
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\bin\Debug\net6.0\codequizscrapcode.runtimeconfig.json
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\bin\Debug\net6.0\codequizscrapcode.dll
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\bin\Debug\net6.0\codequizscrapcode.pdb
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.dll
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\refint\codequizscrapcode.dll
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.pdb
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\codequizscrapcode.genruntimeconfig.cache
+C:\Users\heath\Desktop\Revature\mathiasriverarevature1\codequizscrapcode\obj\Debug\net6.0\ref\codequizscrapcode.dll
